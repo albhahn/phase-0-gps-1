@@ -12,4 +12,10 @@
 
 ![Alt Text](/screenshot.png)
 
+
 Create merge conflict here
+
+This is going to create a merge conflict. #devastating
+
+Is this going to create another problem?
+
